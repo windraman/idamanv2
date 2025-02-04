@@ -1,6 +1,6 @@
-# padi
+# idaman
 
-Pasar Digital Juara
+Integrasi Dalam Genggaman
 
 ## Getting Started
 
